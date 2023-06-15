@@ -17,7 +17,9 @@ closeButton.addEventListener('click', ()=>{
     cartwindow.classList.add('hidden');
 })
 
-const cartButton = document.querySelector('.cartLink');
-cartButton.addEventListener('click', ()=>{
-    cartwindow.classList.remove('hidden');
+const cartButton = document.querySelectorAll('.cartLink');
+cartButton.forEach((button)=>{
+    button.addEventListener('click', ()=>{
+        cartwindow.classList.remove('hidden');
+    })
 })

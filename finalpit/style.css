@@ -702,6 +702,7 @@ form {
   justify-content: space-between;
   padding: 1em;
   border: 1px solid black;
+  flex-wrap: wrap;
 }
 
 .cartitem h1 {
