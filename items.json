@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Luna",
+    "price": "5,999",
+    "item": "1"
+  },
+  {
+    "name": "Vanessa",
+    "price": "10,499",
+    "item": "2"
+  },
+  {
+    "name": "Cherry",
+    "price": "7,499",
+    "item": "3"
+  },
+  {
+    "name": "Cassandra",
+    "price": "8,499",
+    "item": "4"
+  },
+  {
+    "name": "Vanilla",
+    "price": "10,299",
+    "item": "5"
+  },
+  {
+    "name": "Elizabeth",
+    "price": "10,999",
+    "item": "6"
+  },
+  {
+    "name": "Georgia",
+    "price": "14,200",
+    "item": "7"
+  },
+  {
+    "name": "Margarita",
+    "price": "15,300",
+    "item": "8"
+  },
+  {
+    "name": "Angelita",
+    "price": "15,999",
+    "item": "9"
+  },
+  {
+    "name": "Pauline",
+    "price": "16,999",
+    "item": "10"
+  },
+  {
+    "name": "Louis",
+    "price": "10,999",
+    "item": "11"
+  },
+  {
+    "name": "Charlie",
+    "price": "9,899",
+    "item": "12"
+  },
+  {
+    "name": "Suzy",
+    "price": "11,299",
+    "item": "13"
+  },
+  {
+    "name": "Isabelle",
+    "price": "13,999",
+    "item": "14"
+  },
+  {
+    "name": "Maureen",
+    "price": "10,699",
+    "item": "15"
+  }
+]
