@@ -554,6 +554,9 @@ form {
   flex: 30%;
   padding: 10px;
   text-align: justify;
+  display: flex;
+flex-direction: column;
+justify-content: center;
 }
 
 .search input[type="text"] {
